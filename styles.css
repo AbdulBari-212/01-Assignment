@@ -1,0 +1,38 @@
+header {
+    background-color: #f8f9fa; /* Light background */
+    padding: 20px; /* Space around the text */
+    text-align: center; /* Center the text */
+}
+
+h1 {
+    color: #333; /* Dark text color */
+    font-size: 2em; /* Size of the text */
+}
+
+h2 {
+    margin-top: 20px; /* Space above headings */
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.purple {
+    color: purple;
+}
+
+.orange {
+    color: orange;
+}
+
+p {
+    margin: 10px 0; /* Space above and below paragraphs */
+}
